@@ -1,0 +1,43 @@
+Förklara TDD förkortning
+PNG - format
+
+Evaluation
+	- Två löpare
+	- Bad bishops
+	- Kung på kanten i börja	
+
+UI
+	- Move tostring anorlunda för svart.
+	- Tagna pjäser
+	- Ljud
+	
+Kodkvallité
+	- Läsa igenom all kod för att se om något kan göras mer pedagogiskt.
+	- Tester för GetCaptures
+	- Refaktorisera testfallen så de blir mer läsbara. StringMoves.
+	
+Spela mot dator på chess.com.
+	Nivå 5: 1-0
+	Nivå:6: 0-0
+	Nivå 7: 0-1
+	
+Prestanda, testa.
+	- sätta position score i move/undo, 
+		knight, 
+		pawn center och ju närmare prom desto bättre, inget pawn endgame
+		bishops nej,
+		rooks,
+		dubble pawns när pawn flyttas.
+		castling
+		king on opening och endgame,
+		motståndarens captured piece?
+		Gör detta även för quite search, så man får alpha beta cuts
+
+
+	http://www.chessbin.com/post/Some-Performance-Optimization-Advice
+	- Bitboards
+	- Book
+
+Övrigt
+	- Promotion to optional.
+	- Hash av Castlings. Hash av en passants? //det behövs kanske inte, får ju inga kollisioner.
