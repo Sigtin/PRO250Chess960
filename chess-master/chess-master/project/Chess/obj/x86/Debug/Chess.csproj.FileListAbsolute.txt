@@ -1,0 +1,8 @@
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\bin\debug\Chess.exe
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\bin\debug\Chess.pdb
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.MainForm.resources
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.Properties.Resources.resources
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.exe
+C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.pdb
