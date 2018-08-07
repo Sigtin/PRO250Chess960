@@ -15,6 +15,7 @@ namespace Chess
         bool m_aigame = false;
         bool m_checkmate = false;
         bool m_manualBoard = false; // Don't init board on new game
+        bool m_chess960 = false;
         bool m_finalizedBoard = false;
         Player m_manualPlayer = Player.WHITE;
         Piece m_manualPiece = Piece.PAWN;
@@ -73,7 +74,7 @@ namespace Chess
 
             // create new game for number of players
             m_aigame = (nPlayers == 0);
-            chess = new Chess(this, nPlayers, !m_manualBoard);
+            chess = new Chess(this, nPlayers, !m_manualBoard, m_chess960);
 
             // show turn status
             SetTurn(Player.WHITE);

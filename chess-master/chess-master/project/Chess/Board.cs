@@ -157,6 +157,11 @@ namespace Chess
             SetPiece(Piece.QUEEN, Player.BLACK, 3, 7);
         }
 
+        public void SetChess960Placement()
+        {
+
+        }
+
         public void SetPiece(Piece piece, Player player, int letter, int number)
         {
             // set grid values
