@@ -128,7 +128,19 @@ namespace Chess
         {
             if (((ToolStripMenuItem)sender).Checked)
             {
+                m_manualBoard = false;
+                m_chess960 = false;
+                doneToolStripMenuItem.Enabled = false;
+                m_finalizedBoard = false;
+                Stop();
 
+                m_chess960 = ((ToolStripMenuItem)sender).Checked;
+
+                SetStatus(false, "Please choose a game mode.");
+            }
+            else if (!m_finalizedBoard)
+            {
+                Stop();
             }
         }
 

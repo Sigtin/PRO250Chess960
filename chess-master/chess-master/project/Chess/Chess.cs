@@ -37,6 +37,7 @@ namespace Chess
                 }
                 else
                 {
+                    //this.m_UI.SetStatus(false, "This is chess 960 logic");
                     this.Board.SetChess960Placement();
                 }
             }

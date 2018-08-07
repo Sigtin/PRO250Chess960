@@ -159,6 +159,13 @@ namespace Chess
 
         public void SetChess960Placement()
         {
+            for (int i = 0; i < 8; i++)
+            {
+                SetPiece(Piece.PAWN, Player.WHITE, i, 1);
+                SetPiece(Piece.PAWN, Player.BLACK, i, 6);
+            }
+
+            Random rand = new Random();
 
         }
 
