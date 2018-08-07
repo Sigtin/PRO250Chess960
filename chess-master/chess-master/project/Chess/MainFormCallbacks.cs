@@ -124,6 +124,14 @@ namespace Chess
             }
         }
 
+        private void chess960ToolStripMenuItem_CheckedChanged(object sender, EventArgs e)
+        {
+            if (((ToolStripMenuItem)sender).Checked)
+            {
+
+            }
+        }
+
         private void manualPieceMenuItem_Click(object sender, EventArgs e)
         {
             String labelName = ((ToolStripMenuItem)sender).Name;

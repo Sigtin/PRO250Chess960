@@ -6,3 +6,12 @@ C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86
 C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
 C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.exe
 C:\Users\Austin Sigler\Downloads\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.pdb
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\bin\debug\Chess.exe
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\bin\debug\Chess.pdb
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csprojResolveAssemblyReference.cache
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.MainForm.resources
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.Properties.Resources.resources
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csproj.GenerateResource.Cache
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.exe
+C:\Users\Austin Sigler\Desktop\Quarter 8\PRO 250\Chess960\PRO250Chess960\chess-master\chess-master\project\Chess\obj\x86\Debug\Chess.pdb
