@@ -14,6 +14,7 @@ namespace Chess
         public Dictionary<Player, position_t> Kings { get; private set; }
         public Dictionary<Player, List<position_t>> Pieces { get; private set; }
         public Dictionary<Player, position_t> LastMove { get; private set; }
+        public List<int> availableSpaces { get; set; }
 
         public ChessBoard()
         {
@@ -160,7 +161,7 @@ namespace Chess
 
         public void SetChess960Placement()
         {
-            List<int> availableSpaces = new List<int>() { 0, 1, 2, 3, 4, 5, 6, 7 };
+            availableSpaces = new List<int>() { 0, 1, 2, 3, 4, 5, 6, 7 };
             for (int i = 0; i < 8; i++)
             {
                 SetPiece(Piece.PAWN, Player.WHITE, i, 1);
